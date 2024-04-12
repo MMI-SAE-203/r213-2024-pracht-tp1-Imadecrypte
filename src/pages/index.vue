@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-const sectionOpen = ref(1)
+const sectionOpen = ref(0)
 </script>
 
 <template>
